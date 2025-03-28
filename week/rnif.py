@@ -9,4 +9,3 @@ while(True):
     else :
         print( "got the number")
         break;
-            
